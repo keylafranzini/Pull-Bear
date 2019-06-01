@@ -1,6 +1,7 @@
 body{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
+
 
 /* HEADER */
 .logo {
@@ -190,7 +191,6 @@ input{
 
 .footer2{
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
     border-top-style:solid;
     border-top-color: rgb(219, 218, 218);
     border-width:thin;
@@ -224,6 +224,7 @@ input{
     border-top-style:solid;
     border-top-color: rgb(219, 218, 218);
     border-width:thin;
+    font-size: 14px;
 }
 
 /*LISTA 1*/
